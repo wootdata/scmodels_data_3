@@ -1,0 +1,10 @@
+XDM Sesshomaru v1.5
+
+Reference mesh converted from PS2 by unknown person
+Player model made by xawari
+Textures converted and repainted by xawari
+
+For X-Half-Life: Deathmatch 3.0.x.x
+Please do not redistribute separately.
+
+12 skins included
