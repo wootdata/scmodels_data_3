@@ -1,1 +1,1 @@
-{"tri_count": "22491", "events": [{"frame": "2", "file": "player/snekky/pepe_hazmat/normies.ogg", "seq": "123"}, {"frame": "2", "file": "player/snekky/pepe_hazmat/normies.ogg", "seq": "126"}], "seq_groups": 1}
+{"seq_groups": 1, "events": [{"frame": "2", "seq": "123", "file": "player/snekky/pepe_hazmat/normies.ogg"}, {"frame": "2", "seq": "126", "file": "player/snekky/pepe_hazmat/normies.ogg"}], "tri_count": "22491", "hash": "3371c541b50725d82923eeb99adc4ad2"}
