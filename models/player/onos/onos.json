@@ -1,1 +1,571 @@
-{"seq_groups": 1, "hash": "a410a4cd1acddb91f9ec17ebcff18dc9", "tri_count": "1126"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "lvl5_ref",
+					"polys": 1126,
+					"verts": 600
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 55,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 56,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 57,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 59,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 60,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 61,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 62,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 63,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 0,
+			"options": "",
+			"sequence": 64,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "a410a4cd1acddb91f9ec17ebcff18dc9",
+	"name": "alien5.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 65,
+			"name": "walk"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 25,
+			"name": "run"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 65,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 65,
+			"name": "swim"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 65,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "communicate"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "voicecomm"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "lmg_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "pistol_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "knife_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "grenade_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "hmg_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "welder_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "grenadegun_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "tripmine_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "alien_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "lmg_fire"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "pistol_fire"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "knife_fire"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "Im_a_leet_place_holder"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "grenade_fire"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "hmg_fire"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "welder_fire"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "grenadegun_fire"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "tripmine_fire"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_lmg_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_pistol_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_knife_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "why_am_i_allways_below_knife"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_grenade_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_hmg_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_welder_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_grenadegun_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_tripmine_look"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_lmg_fire"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_pistol_fire"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_knife_fire"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "OMG_this_owns"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_grenade_fire"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_hmg_fire"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_welder_fire"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_grenadegun_fire"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "crouch_tripmine_fire"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "ability1_alien"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "ability2_alien"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "ability3_alien"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 11,
+			"name": "ability4_alien"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "ability5_alien"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "ability6_alien"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "head_flinch"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 11,
+			"name": "body_flinch"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 197,
+			"name": "death1_die"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 197,
+			"name": "death2_die"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 197,
+			"name": "death3_die"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 197,
+			"name": "head_die"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 197,
+			"name": "gut_die"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 197,
+			"name": "left_die"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 197,
+			"name": "back_die"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 197,
+			"name": "right_die"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 197,
+			"name": "forward_die"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 197,
+			"name": "crouch_die"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "animation_by"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "Hugo_Silverio"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "drhugo@uol.com.br"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01 Thigh",
+			"parent": -1
+		}, 
+		{
+			"name": "lvl5 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "lvl5 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "lvl5 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "lvl5 Neck",
+			"parent": 3
+		}, 
+		{
+			"name": "lvl5 Head",
+			"parent": 4
+		}, 
+		{
+			"name": "Box01",
+			"parent": 5
+		}, 
+		{
+			"name": "lvl5 Ponytail1",
+			"parent": 5
+		}, 
+		{
+			"name": "lvl5 Ponytail11",
+			"parent": 7
+		}, 
+		{
+			"name": "lvl5 Ponytail12",
+			"parent": 8
+		}, 
+		{
+			"name": "lvl5 Ponytail13",
+			"parent": 9
+		}, 
+		{
+			"name": "lvl5 Ponytail14",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Thigh Front",
+			"parent": 4
+		}, 
+		{
+			"name": "lvl5 L UpperArm",
+			"parent": 12
+		}, 
+		{
+			"name": "lvl5 L Forearm",
+			"parent": 13
+		}, 
+		{
+			"name": "lvl5 L Hand",
+			"parent": 14
+		}, 
+		{
+			"name": "lvl5 L Finger0",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 R Thigh Front",
+			"parent": 4
+		}, 
+		{
+			"name": "lvl5 R UpperArm",
+			"parent": 17
+		}, 
+		{
+			"name": "lvl5 R Forearm",
+			"parent": 18
+		}, 
+		{
+			"name": "lvl5 R Hand",
+			"parent": 19
+		}, 
+		{
+			"name": "lvl5 R Finger0",
+			"parent": 20
+		}, 
+		{
+			"name": "lvl5 L Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "lvl5 L Calf",
+			"parent": 22
+		}, 
+		{
+			"name": "lvl5 L HorseLink",
+			"parent": 23
+		}, 
+		{
+			"name": "lvl5 L Foot",
+			"parent": 24
+		}, 
+		{
+			"name": "lvl5 R Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "lvl5 R Calf",
+			"parent": 26
+		}, 
+		{
+			"name": "lvl5 R HorseLink",
+			"parent": 27
+		}, 
+		{
+			"name": "lvl5 R Foot",
+			"parent": 28
+		}, 
+		{
+			"name": "lvl5 Tail",
+			"parent": 1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "alien_level5.bmp",
+			"width": 512
+		}
+	],
+	"version": 10
+}

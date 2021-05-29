@@ -1,1 +1,153 @@
-{"seq_groups": 1, "tri_count": "678", "hash": "ccf821c757fba7b29d25428cf90b6e14"}
+{
+	"attachments": [
+		{
+			"bone": 12,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 12,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 12,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 13,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "GigaCirno",
+					"polys": 678,
+					"verts": 367
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "ccf821c757fba7b29d25428cf90b6e14",
+	"name": "GigaCirno_v2.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "God"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "idle"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 1,
+			"name": "deep_idle"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "walk2handed"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 1,
+			"name": "2handshoot"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 31,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "crouch_idle"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01 Pelvis",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": -1
+		}, 
+		{
+			"name": "UpRIce",
+			"parent": -1
+		}, 
+		{
+			"name": "UpLice",
+			"parent": -1
+		}, 
+		{
+			"name": "MLice",
+			"parent": -1
+		}, 
+		{
+			"name": "MRice",
+			"parent": -1
+		}, 
+		{
+			"name": "DLice",
+			"parent": -1
+		}, 
+		{
+			"name": "DRice",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 4,
+			"height": 1024,
+			"name": "Cirno.bmp",
+			"width": 1024
+		}
+	],
+	"version": 10
+}
