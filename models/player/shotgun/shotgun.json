@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}
@@ -20,22 +20,12 @@
 		{
 			"models": [
 				{
-					"name": "CyberTrooper_Cyber1",
-					"polys": 2316,
-					"verts": 1304
+					"name": "shotgun_head1",
+					"polys": 645,
+					"verts": 353
 				}
 			],
-			"name": "mrbond123"
-		}, 
-		{
-			"models": [
-				{
-					"name": "CyberTrooper_Cyber2",
-					"polys": 1429,
-					"verts": 847
-				}
-			],
-			"name": "mrbond123"
+			"name": "body"
 		}
 	],
 	"controllers": [
@@ -181,14 +171,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -306,8 +296,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "de549066a5320322c709570947d84946",
-	"name": "HatsuneMiku.mdl",
+	"md5": "9f40bf732d2a0c22b129c13a93640b3e",
+	"name": "shotgun.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1266,7 +1256,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1193972,
+	"size": 999948,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1321,16 +1311,48 @@
 			"parent": 11
 		}, 
 		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 13
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 14
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1338,23 +1360,39 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 16
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 15
+			"parent": 25
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 18
+			"parent": 26
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
+			"name": "Bip01 R Finger0",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -1362,39 +1400,33 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 253,
-			"name": "Image09C3F800_09C26E50.bmp",
+			"height": 256,
+			"name": "body.bmp",
 			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 253,
-			"name": "Image09C27700_09C26A30.bmp",
-			"width": 200
-		}, 
-		{
-			"flags": 0,
-			"height": 254,
-			"name": "Image09C2F780_09C27270.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 242,
-			"name": "Image09CCC480_09C52A00.bmp",
+			"height": 128,
+			"name": "face.bmp",
 			"width": 128
 		}, 
 		{
-			"flags": 0,
-			"height": 154,
-			"name": "Image09CDC580_09CCC030.bmp",
-			"width": 196
+			"flags": 3,
+			"height": 64,
+			"name": "goggle_chrome.bmp",
+			"width": 64
 		}, 
 		{
 			"flags": 0,
-			"height": 254,
-			"name": "Image09CD4500_09CCBC10.bmp",
-			"width": 152
+			"height": 16,
+			"name": "shotgunheadgoggletrim.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "shotgunheadside.bmp",
+			"width": 64
 		}
 	],
 	"version": 10

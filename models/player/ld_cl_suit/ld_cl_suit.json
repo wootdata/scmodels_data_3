@@ -1,17 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 30,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 30,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 30,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 23,
 			"name": "",
 			"type": 0
 		}
@@ -20,27 +25,17 @@
 		{
 			"models": [
 				{
-					"name": "CyberTrooper_Cyber1",
-					"polys": 2316,
-					"verts": 1304
+					"name": "DM_cs_scientist_ref",
+					"polys": 456,
+					"verts": 244
 				}
 			],
-			"name": "mrbond123"
-		}, 
-		{
-			"models": [
-				{
-					"name": "CyberTrooper_Cyber2",
-					"polys": 1429,
-					"verts": 847
-				}
-			],
-			"name": "mrbond123"
+			"name": "body"
 		}
 	],
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 14,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -48,7 +43,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 15,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -56,7 +51,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 16,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -64,7 +59,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 17,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -181,14 +176,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -306,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "de549066a5320322c709570947d84946",
-	"name": "HatsuneMiku.mdl",
+	"md5": "7709e0cd2a37e3b3249b16f55f21bb97",
+	"name": "cl_suit.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1266,7 +1261,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1193972,
+	"size": 966512,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1289,16 +1284,40 @@
 			"parent": 3
 		}, 
 		{
+			"name": "Bip01 L Toe0",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 L Toe01",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Toe02",
+			"parent": 6
+		}, 
+		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 5
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 6
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Toe01",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Toe02",
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -1306,55 +1325,79 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 L Arm2",
 			"parent": 14
 		}, 
 		{
-			"name": "Bip01 R Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 Spine2",
 			"parent": 15
 		}, 
 		{
-			"name": "Bip01 R Hand",
-			"parent": 18
+			"name": "Bip01 Spine3",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 Head",
-			"parent": 12
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -1362,39 +1405,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 253,
-			"name": "Image09C3F800_09C26E50.bmp",
+			"height": 63,
+			"name": "SCI3X_Face2.bmp",
+			"width": 60
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "css_template5.bmp",
 			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 253,
-			"name": "Image09C27700_09C26A30.bmp",
-			"width": 200
-		}, 
-		{
-			"flags": 0,
-			"height": 254,
-			"name": "Image09C2F780_09C27270.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 242,
-			"name": "Image09CCC480_09C52A00.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 154,
-			"name": "Image09CDC580_09CCC030.bmp",
-			"width": 196
-		}, 
-		{
-			"flags": 0,
-			"height": 254,
-			"name": "Image09CD4500_09CCBC10.bmp",
-			"width": 152
 		}
 	],
 	"version": 10

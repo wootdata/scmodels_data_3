@@ -1,12 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 27,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
@@ -20,22 +25,12 @@
 		{
 			"models": [
 				{
-					"name": "CyberTrooper_Cyber1",
-					"polys": 2316,
-					"verts": 1304
+					"name": "immolator_immonator",
+					"polys": 2196,
+					"verts": 1100
 				}
 			],
-			"name": "mrbond123"
-		}, 
-		{
-			"models": [
-				{
-					"name": "CyberTrooper_Cyber2",
-					"polys": 1429,
-					"verts": 847
-				}
-			],
-			"name": "mrbond123"
+			"name": "body"
 		}
 	],
 	"controllers": [
@@ -181,14 +176,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -306,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "de549066a5320322c709570947d84946",
-	"name": "HatsuneMiku.mdl",
+	"md5": "2a9845814144d0e9da981c4d00d5ed58",
+	"name": "immolator.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1266,7 +1261,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1193972,
+	"size": 1206508,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1345,16 +1340,64 @@
 			"parent": 17
 		}, 
 		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
 			"name": "Bip01 L Hand",
 			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 25
 		}, 
 		{
 			"name": "Bip01 R Hand",
 			"parent": 18
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
+			"name": "Bip01 R Finger0",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -1362,39 +1405,9 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 253,
-			"name": "Image09C3F800_09C26E50.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 253,
-			"name": "Image09C27700_09C26A30.bmp",
-			"width": 200
-		}, 
-		{
-			"flags": 0,
-			"height": 254,
-			"name": "Image09C2F780_09C27270.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 242,
-			"name": "Image09CCC480_09C52A00.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 154,
-			"name": "Image09CDC580_09CCC030.bmp",
-			"width": 196
-		}, 
-		{
-			"flags": 0,
-			"height": 254,
-			"name": "Image09CD4500_09CCBC10.bmp",
-			"width": 152
+			"height": 508,
+			"name": "crispy.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

@@ -1,17 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 27,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 17,
 			"name": "",
 			"type": 0
 		}
@@ -20,22 +25,12 @@
 		{
 			"models": [
 				{
-					"name": "CyberTrooper_Cyber1",
-					"polys": 2316,
-					"verts": 1304
+					"name": "grunt_spas_Raptor",
+					"polys": 3164,
+					"verts": 1681
 				}
 			],
-			"name": "mrbond123"
-		}, 
-		{
-			"models": [
-				{
-					"name": "CyberTrooper_Cyber2",
-					"polys": 1429,
-					"verts": 847
-				}
-			],
-			"name": "mrbond123"
+			"name": "body"
 		}
 	],
 	"controllers": [
@@ -181,14 +176,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -306,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "de549066a5320322c709570947d84946",
-	"name": "HatsuneMiku.mdl",
+	"md5": "ee3e94e78ace67ae6fef46b199526cd6",
+	"name": "grunt_spas.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -352,7 +347,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 128,
+			"frames": 34,
 			"name": "jump"
 		}, 
 		{
@@ -1266,7 +1261,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1193972,
+	"size": 1464756,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1321,16 +1316,48 @@
 			"parent": 11
 		}, 
 		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 13
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 14
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1338,23 +1365,39 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 16
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 15
+			"parent": 25
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 18
+			"parent": 26
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
+			"name": "Bip01 R Finger0",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -1362,39 +1405,75 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 253,
-			"name": "Image09C3F800_09C26E50.bmp",
+			"height": 384,
+			"name": "soldier_body.bmp",
+			"width": 384
+		}, 
+		{
+			"flags": 0,
+			"height": 192,
+			"name": "soldier_hand_wht.bmp",
 			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 253,
-			"name": "Image09C27700_09C26A30.bmp",
-			"width": 200
-		}, 
-		{
-			"flags": 0,
-			"height": 254,
-			"name": "Image09C2F780_09C27270.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 242,
-			"name": "Image09CCC480_09C52A00.bmp",
+			"height": 128,
+			"name": "soldier_arm_wht.bmp",
 			"width": 128
 		}, 
 		{
 			"flags": 0,
-			"height": 154,
-			"name": "Image09CDC580_09CCC030.bmp",
-			"width": 196
+			"height": 128,
+			"name": "soldier_pouches.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 254,
-			"name": "Image09CD4500_09CCBC10.bmp",
-			"width": 152
+			"height": 125,
+			"name": "wp_grenade.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 131,
+			"name": "soldier_backpack.bmp",
+			"width": 236
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "soldier_holster.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 63,
+			"name": "soldier_holster_pistol.bmp",
+			"width": 124
+		}, 
+		{
+			"flags": 0,
+			"height": 192,
+			"name": "soldier_boots.bmp",
+			"width": 192
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "soldier_head_shotgun.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "soldier_goggle_chrome.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "soldier_head_grunt_wht.bmp",
+			"width": 384
 		}
 	],
 	"version": 10
