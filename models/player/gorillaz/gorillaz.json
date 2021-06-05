@@ -25,7 +25,7 @@
 		{
 			"models": [
 				{
-					"name": "Gorillaz_Gorrilaz",
+					"name": "Gorrilaz",
 					"polys": 2086,
 					"verts": 1099
 				}
@@ -301,7 +301,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "bd23e62efad9e6b1f233b35175eaba16",
+	"md5": "da525b938441d733eafe62347f73da04",
 	"name": "Gorillaz.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1194460,
+	"size": 1194920,
 	"skeleton": [
 		{
 			"name": "Bip01",
