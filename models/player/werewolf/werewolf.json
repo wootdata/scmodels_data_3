@@ -1,12 +1,33 @@
 {
-	"attachments": [],
+	"attachments": [
+		{
+			"bone": 33,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 33,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 33,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 23,
+			"name": "",
+			"type": 0
+		}
+	],
 	"bodies": [
 		{
 			"models": [
 				{
-					"name": "gman_reference",
-					"polys": 521,
-					"verts": 276
+					"name": "werewolf",
+					"polys": 3658,
+					"verts": 1855
 				}
 			],
 			"name": "body"
@@ -280,7 +301,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "7aabd57ce523acf98801657a8e897272",
+	"md5": "2372fa9fc259d9a61d4f189452cf99e9",
 	"name": "werewolf.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -1226,7 +1247,7 @@
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 71,
+			"frames": 66,
 			"name": "action_retina"
 		}, 
 		{
@@ -1238,9 +1259,14 @@
 			"fps": 10.000000,
 			"frames": 22,
 			"name": "action_wave"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 1,
+			"name": "Fixed {T.Ba.5} By FreeKill"
 		}
 	],
-	"size": 968636,
+	"size": 1305208,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1401,6 +1427,10 @@
 		{
 			"name": "Bip01 R Finger12",
 			"parent": 38
+		}, 
+		{
+			"name": "Bip01 Mouth",
+			"parent": 19
 		}
 	],
 	"skins": 1,
@@ -1408,15 +1438,9 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "dm_base.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "dm_face.bmp",
-			"width": 128
+			"height": 512,
+			"name": "tx_creature_werewolf.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

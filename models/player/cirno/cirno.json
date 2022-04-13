@@ -1,53 +1,12 @@
 {
-	"attachments": [
-		{
-			"bone": 14,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 14,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 14,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 10,
-			"name": "",
-			"type": 0
-		}
-	],
+	"attachments": [],
 	"bodies": [
 		{
 			"models": [
 				{
-					"name": "amm",
-					"polys": 1250,
-					"verts": 604
-				}
-			],
-			"name": "amm"
-		}, 
-		{
-			"models": [
-				{
-					"name": "head",
-					"polys": 1661,
-					"verts": 731
-				}
-			],
-			"name": "head"
-		}, 
-		{
-			"models": [
-				{
-					"name": "body",
-					"polys": 1211,
-					"verts": 664
+					"name": "gman_reference",
+					"polys": 1884,
+					"verts": 1162
 				}
 			],
 			"name": "body"
@@ -55,22 +14,22 @@
 		{
 			"models": [
 				{
-					"name": "leg",
-					"polys": 990,
-					"verts": 542
+					"name": "gman_reference2",
+					"polys": 1759,
+					"verts": 978
 				}
 			],
-			"name": "leg"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "wing",
-					"polys": 99,
-					"verts": 64
+					"name": "gman_reference3",
+					"polys": 96,
+					"verts": 72
 				}
 			],
-			"name": "wing"
+			"name": "body"
 		}
 	],
 	"controllers": [
@@ -186,30 +145,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -341,8 +300,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "730c57abc8f3d7478f062ee505e7f119",
-	"name": "cirno.mdl",
+	"md5": "bd0bdb9b4c94fb4e8420f5ef98935234",
+	"name": "C:\\Documents and Settings\\Administrator\\\\mqo\\new\\gma]",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -412,7 +371,7 @@
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 25,
+			"frames": 36,
 			"name": "die_backwards1"
 		}, 
 		{
@@ -422,7 +381,7 @@
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 19,
+			"frames": 36,
 			"name": "die_forwards"
 		}, 
 		{
@@ -437,7 +396,7 @@
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 38,
+			"frames": 28,
 			"name": "gutshot"
 		}, 
 		{
@@ -1254,54 +1213,9 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 9,
-			"name": "barnaclehit"
-		}, 
-		{
-			"fps": 25.000000,
-			"frames": 81,
-			"name": "barnaclepull"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 36,
-			"name": "barnaclecrunch"
-		}, 
-		{
-			"fps": 15.000000,
-			"frames": 36,
-			"name": "barnaclechew"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 21,
-			"name": "use_console_loop"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 201,
-			"name": "use_console_loop2"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 66,
-			"name": "action_retina"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 81,
-			"name": "action_studycart"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 22,
-			"name": "action_wave"
 		}
 	],
-	"size": 1177524,
+	"size": 1007020,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1332,20 +1246,32 @@
 			"parent": 5
 		}, 
 		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 6
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
 			"parent": 8
 		}, 
 		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 L Arm2",
 			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1353,19 +1279,35 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 11
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 12
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 13
+			"parent": 16
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 6
+			"name": "Bip01 R Finger0",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 L Leg",
@@ -1373,11 +1315,11 @@
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 16
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 17
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1385,11 +1327,31 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 19
+			"parent": 26
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 20
+			"parent": 27
+		}, 
+		{
+			"name": "joint41",
+			"parent": 1
+		}, 
+		{
+			"name": "joint42",
+			"parent": 29
+		}, 
+		{
+			"name": "joint43",
+			"parent": 29
+		}, 
+		{
+			"name": "joint44",
+			"parent": 29
+		}, 
+		{
+			"name": "joint45",
+			"parent": 29
 		}
 	],
 	"skins": 1,
@@ -1397,9 +1359,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "cirno.bmp",
-			"width": 512
+			"height": 256,
+			"name": "map#0.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 32,
+			"height": 32,
+			"name": "light.bmp",
+			"width": 32
 		}
 	],
 	"version": 10
