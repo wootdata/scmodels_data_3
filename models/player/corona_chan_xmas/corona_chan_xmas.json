@@ -283,6 +283,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -570,7 +571,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7cdc13d90b2442741c4333d7ca03cd80",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Corona_chan.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

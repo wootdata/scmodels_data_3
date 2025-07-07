@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -345,7 +346,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b4d0b87d5a37affd5d4adc462d298dc9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "NR_Ranger.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

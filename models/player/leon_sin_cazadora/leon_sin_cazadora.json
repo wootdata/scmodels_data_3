@@ -63,6 +63,7 @@
 			"name": "leon4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -431,7 +432,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2de4ce342fc1b5498250add72d7ad6c5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\APOCALIPSIS\\Escritorio\\models\\Leon sin?0",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

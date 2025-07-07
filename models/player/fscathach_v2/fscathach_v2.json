@@ -203,6 +203,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -473,7 +474,11 @@
 	],
 	"id": 1414743113,
 	"md5": "365da436b2405dab79cdff0352332b37",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "FScathach.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

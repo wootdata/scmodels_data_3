@@ -53,6 +53,7 @@
 			"name": "BACK"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 5,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "320ec3292f218cf05bee7f6e90f0275b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "moldybread.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "DGF"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -555,7 +556,11 @@
 	],
 	"id": 1414743113,
 	"md5": "596fcb32e2e4d32ce049e1aa617944d2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DGF_USCM_Male04.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -123,6 +123,7 @@
 			"name": "Legs"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -393,7 +394,11 @@
 	],
 	"id": 1414743113,
 	"md5": "392f76cb9ce30094bf27009d3565572e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Nonon Jakuzure.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

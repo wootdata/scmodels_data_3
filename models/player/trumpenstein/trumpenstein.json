@@ -33,6 +33,7 @@
 			"name": "by The Grib"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5e9908621ffb617d4fd1046b7e2dd6d9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "trumpik.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

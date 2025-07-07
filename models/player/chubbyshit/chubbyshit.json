@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1413824954,
 	"events": [],
 	"id": 1414743113,
 	"md5": "cc874a39f095c855e0624e2528349633",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "chubby.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "hair"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3e584c4b1a24b47f24d3ed09cd3f6fcd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Lapadula.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

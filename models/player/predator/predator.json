@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -256,7 +257,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3732aea9305c2acd8428dbe74a8587c2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "AvP2Pred.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

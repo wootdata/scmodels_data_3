@@ -138,6 +138,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -509,7 +510,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a3079249ba76f75cb68d447872bbcad9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "spess_kagerou_alt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

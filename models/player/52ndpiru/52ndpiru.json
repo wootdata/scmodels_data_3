@@ -28,6 +28,7 @@
 			"name": "body1"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0bc875c35558a183cadbfa93381c9d35",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "52ndPiru.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

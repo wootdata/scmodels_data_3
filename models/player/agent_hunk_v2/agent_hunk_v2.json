@@ -33,6 +33,7 @@
 			"name": "Hunk4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "eb79aa76df180769051929b09adfa467",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Agent_Hunk.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

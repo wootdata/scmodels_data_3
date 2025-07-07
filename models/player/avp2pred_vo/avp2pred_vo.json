@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -429,7 +430,11 @@
 	],
 	"id": 1414743113,
 	"md5": "324b50b750193e89f30b138a06e5db27",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "avp2pred.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

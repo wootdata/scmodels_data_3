@@ -38,6 +38,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 36,
@@ -292,7 +293,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dd8cff7cbf29dc5df1926f20c760ce4f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hevwalter.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

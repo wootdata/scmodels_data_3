@@ -68,6 +68,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -338,7 +339,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c85fa67143272b10cd5adeea2b57df86",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mascaly.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

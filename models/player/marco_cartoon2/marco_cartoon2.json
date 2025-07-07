@@ -63,6 +63,7 @@
 			"name": "Hunk4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b0350c6a3293afab5dc80730d497d4aa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Marco_Cartoon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -123,6 +123,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -716,7 +717,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c3866fe154bd489ec6df58be38317299",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gi_kukishinobu_nm_dark.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

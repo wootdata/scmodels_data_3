@@ -72,6 +72,7 @@
 			"name": "Plutia7"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -342,7 +343,11 @@
 	],
 	"id": 1414743113,
 	"md5": "77ca0ac18e0b865f93b5907333eb9441",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "plutia04_mazz.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

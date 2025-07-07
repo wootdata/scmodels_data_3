@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "57d311ba0eedad14bcd54bb68f69ab5f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Grey_Fox_Red.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

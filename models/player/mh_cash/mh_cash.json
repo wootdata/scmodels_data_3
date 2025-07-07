@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "69c554d53dd5f3af6be15e7a368476fe",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "MKA_Sub-Zero.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

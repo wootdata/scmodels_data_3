@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -359,7 +360,11 @@
 	],
 	"id": 1414743113,
 	"md5": "265b9700a534c1b240fc0cdc659ec013",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\PC Pirateada\\Documents\\mi editacion\\gordo2\\Steve.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

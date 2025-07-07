@@ -382,12 +382,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1645381165,
 	"events": [],
 	"id": 1414743113,
 	"md5": "1b7743a96187549c497c10fbe5793f79",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ryors_sphere_v2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

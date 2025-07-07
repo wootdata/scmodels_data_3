@@ -168,6 +168,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -502,7 +503,11 @@
 	],
 	"id": 1414743113,
 	"md5": "999173613a67c3a9aa2b520a84632e8d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_meiling2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

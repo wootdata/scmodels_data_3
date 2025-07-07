@@ -43,6 +43,7 @@
 			"name": "body2"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5f58ab8a0571a4476c501bb487287502",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "chemagent.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "Takodachi"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -71,7 +72,11 @@
 	"events": [],
 	"id": 1414743113,
 	"md5": "717131e6f87932efc15dd996d64ec11c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/Holo_Takodachi_PSize/Holo_Takodachi_PSize.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

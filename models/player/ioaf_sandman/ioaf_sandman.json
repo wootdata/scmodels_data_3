@@ -93,6 +93,7 @@
 			"name": "badge"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "23ced5cf3756a9919e90e1712a230a3d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ioaf_sandman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

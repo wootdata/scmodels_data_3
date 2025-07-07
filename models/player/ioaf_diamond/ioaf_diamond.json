@@ -73,6 +73,7 @@
 			"name": "equip"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "72686418cbdc5601630905637514c894",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ioaf_diamond.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

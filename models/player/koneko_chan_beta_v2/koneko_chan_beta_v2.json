@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -461,7 +462,11 @@
 	],
 	"id": 1414743113,
 	"md5": "12e37f75e62078a954e0c7d76a4ff0ae",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\FRaNKKeY\\Desktop\\sven5.0_compileomatic\\Koneko_chan_betaLl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

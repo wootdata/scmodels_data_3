@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 41,
@@ -419,7 +420,11 @@
 	],
 	"id": 1414743113,
 	"md5": "83fc000f2fa6f57b30bb5096383f7c32",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\APOCALIPSIS\\Escritorio\\inserte nombre\\43",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

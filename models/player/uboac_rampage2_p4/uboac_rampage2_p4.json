@@ -53,6 +53,7 @@
 			"name": "guti"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "891302e8995f472782a2f6daa920a8e0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "uboac_rampage2_p4.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

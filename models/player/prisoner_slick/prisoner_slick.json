@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "044ee4039b3c0450f6d3c3e38cc0247d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "th_slick.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

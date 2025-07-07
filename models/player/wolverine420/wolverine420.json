@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "243b7661dde494df41ab1191f02f8f21",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "wolverine420.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

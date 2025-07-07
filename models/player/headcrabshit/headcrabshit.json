@@ -12,6 +12,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1497364801,
 	"events": [
@@ -88,7 +89,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c0faf9c27d6b2e3a10cb32cefd21c849",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "headcrab.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

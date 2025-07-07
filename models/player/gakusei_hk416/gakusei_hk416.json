@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -768,7 +769,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bcf2d983d6e4d37d98b2563cdfe99e32",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gfl_hk416_hatless.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

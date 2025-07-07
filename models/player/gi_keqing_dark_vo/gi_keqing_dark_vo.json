@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -719,7 +720,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a82881adc6b5dccd9fc9fbb787be2691",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gi_keqing_dark.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

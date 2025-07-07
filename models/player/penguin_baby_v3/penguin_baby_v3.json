@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3c61d746c72cc5bbb735ec79567eb3fe",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "penguin_baby.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

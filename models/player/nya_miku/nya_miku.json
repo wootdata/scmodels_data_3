@@ -128,6 +128,7 @@
 			"name": "mrbond123"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -398,7 +399,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5d1a0aba025e0206e3d3040d46f326ab",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "WIMmiku.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

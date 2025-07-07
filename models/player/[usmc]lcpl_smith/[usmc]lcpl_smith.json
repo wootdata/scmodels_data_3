@@ -58,6 +58,7 @@
 			"name": "Armour"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -384,7 +385,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7d4425e6b6a6bbb79af8ea039a9f3cf2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "[USMC]LCpl_Smith.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

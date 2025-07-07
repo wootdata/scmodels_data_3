@@ -18,6 +18,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 18,
@@ -240,7 +241,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dea79669af8b4125fb2b96b3e86bf44a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "security_wheelchair.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

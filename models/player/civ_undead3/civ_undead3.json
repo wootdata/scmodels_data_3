@@ -33,6 +33,7 @@
 			"name": "unm_barney"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6c69193e108b43df38634e394b09220b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "civ_undead3.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

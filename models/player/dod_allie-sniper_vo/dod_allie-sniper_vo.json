@@ -18,6 +18,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -344,7 +345,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8fc7cd0771af87f86942a8f0e680ee0e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dod_allie-sniper.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

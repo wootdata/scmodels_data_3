@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -405,7 +406,11 @@
 	],
 	"id": 1414743113,
 	"md5": "08794489df4f4f472ffc7721517353cf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_chen_v2_Xmas.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

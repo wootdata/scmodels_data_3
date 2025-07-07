@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -390,7 +391,11 @@
 	],
 	"id": 1414743113,
 	"md5": "89f6e578daa05de931f96cb39ade706b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "airborne02_r.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

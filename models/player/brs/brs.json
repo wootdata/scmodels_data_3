@@ -48,6 +48,7 @@
 			"name": "mrbond123"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1c27ebf8799bfabe4551aa8369086b22",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HatsuneMiku.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

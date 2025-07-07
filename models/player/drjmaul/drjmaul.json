@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "236b2c3b25a14ae04cc1b21f987c8e53",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DrjMAUL.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
