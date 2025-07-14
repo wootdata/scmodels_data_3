@@ -294,6 +294,7 @@
 	"md5": "39d870460fd91f809ea85d6541c2c6e6",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 5,
 	"name": "gs.mdl",
 	"preview": true,
 	"readme": false,

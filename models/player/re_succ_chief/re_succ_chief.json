@@ -243,6 +243,7 @@
 	"md5": "dea79669af8b4125fb2b96b3e86bf44a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "security_wheelchair.mdl",
 	"preview": true,
 	"readme": false,

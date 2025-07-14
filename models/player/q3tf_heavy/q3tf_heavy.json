@@ -306,6 +306,7 @@
 	"md5": "7be159acb3cef00e327ea5d3c3760985",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 5,
 	"name": "hvyweapon.mdl",
 	"preview": true,
 	"readme": false,

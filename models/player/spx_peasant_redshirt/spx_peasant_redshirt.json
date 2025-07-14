@@ -306,6 +306,7 @@
 	"md5": "a0a22e133b6e680eb8599892d31870ee",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "compile.mdl",
 	"preview": true,
 	"readme": true,

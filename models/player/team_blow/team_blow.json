@@ -306,6 +306,7 @@
 	"md5": "3b04d3bf16d49693854c060d8dfb7803",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "team_blow.mdl",
 	"preview": true,
 	"readme": false,
