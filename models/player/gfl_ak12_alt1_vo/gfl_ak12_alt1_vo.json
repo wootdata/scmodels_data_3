@@ -162,7 +162,7 @@
 			"type": 8
 		}
 	],
-	"date": 1699125533,
+	"date": 1780811476,
 	"events": [
 		{
 			"event": 5004,
@@ -778,6 +778,7 @@
 	"md5": "2e372d815ce884e9d537cb0063fe2a03",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "GFL_AK12_alt1.mdl",
 	"preview": true,
 	"readme": false,

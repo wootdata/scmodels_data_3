@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1117771786,
+	"date": 1780811476,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "2e330739c3d2da1effbee948cd88c906",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\MilkShape 3D\\Wanted\\MP Models\\Colonel\\Colonel_DM.mdl",
 	"preview": false,
 	"readme": false,

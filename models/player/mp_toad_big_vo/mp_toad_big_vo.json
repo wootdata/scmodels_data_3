@@ -76,7 +76,7 @@
 			"type": 1
 		}
 	],
-	"date": 1703007356,
+	"date": 1780811476,
 	"events": [
 		{
 			"event": 5004,
@@ -377,6 +377,7 @@
 	"md5": "f26ba31d3e528201f76edcfd08b2f66c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "MP_Toad_BIG.mdl",
 	"preview": true,
 	"readme": false,

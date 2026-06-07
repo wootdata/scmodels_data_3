@@ -68,6 +68,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -102,6 +103,7 @@
 			"type": 8
 		}
 	],
+	"date": 1780811476,
 	"events": [
 		{
 			"event": 2001,
@@ -337,7 +339,12 @@
 	],
 	"id": 1414743113,
 	"md5": "a8b7fd09e7069192ae436a660f56058c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "ChicaFNIA.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
